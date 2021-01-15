@@ -1,0 +1,15 @@
+{
+  "name": "visual_regretion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test",
+    "visual:approve": "backstop approve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^5.0.8"
+  }
+}
